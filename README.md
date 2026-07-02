@@ -1,11 +1,5 @@
-<p align="center"><b>Code Minimal</b></p>
 <p align="center">
   <img src="assets/banner-code-minimal.svg" alt="Minimal code banner" width="100%" />
-</p>
-
-<p align="center"><b>Kanagawa</b></p>
-<p align="center">
-  <img src="assets/banner-kanagawa.svg" alt="Kanagawa-inspired banner" width="100%" />
 </p>
 
 > No plan survives first contact with `docker compose up`.
