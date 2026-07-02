@@ -1,25 +1,11 @@
-<p align="center">
-  <img src="assets/profile.svg" alt="Somewhere between compose up and why." width="100%" />
-</p>
-
 <p align="center"><b>Code Minimal</b></p>
 <p align="center">
   <img src="assets/banner-code-minimal.svg" alt="Minimal code banner" width="100%" />
 </p>
 
-<p align="center"><b>90s Blue-Gray</b></p>
-<p align="center">
-  <img src="assets/banner-90s.svg" alt="90s blue-gray banner" width="100%" />
-</p>
-
 <p align="center"><b>Kanagawa</b></p>
 <p align="center">
   <img src="assets/banner-kanagawa.svg" alt="Kanagawa-inspired banner" width="100%" />
-</p>
-
-<p align="center"><b>Minimal Byte</b></p>
-<p align="center">
-  <img src="assets/banner-byte.svg" alt="Minimal byte banner" width="100%" />
 </p>
 
 > No plan survives first contact with `docker compose up`.
