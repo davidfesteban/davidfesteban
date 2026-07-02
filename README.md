@@ -5,7 +5,7 @@
 > No plan survives first contact with `docker compose up`.
 
 | Organisation | Link | Goal |
-| --- | --- | --- |
+| :---: | --- | --- |
 | <img src="https://github.com/GitRegret.png?size=96" width="42" height="42" alt="GitRegret" /> | [GitRegret](https://github.com/GitRegret) | Wall of shame of abandoned cool projects |
 | <img src="https://github.com/GitRegistry.png?size=96" width="42" height="42" alt="GitRegistry" /> | [GitRegistry](https://github.com/GitRegistry) | Docker-composer private registry for infrastructure as code |
 | <img src="https://github.com/GitArchive.png?size=96" width="42" height="42" alt="GitArchive" /> | [GitArchive](https://github.com/GitArchive) | Those that did not make it to wall of shame |
