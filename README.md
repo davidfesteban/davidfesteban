@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/profile.svg" alt="David Festeban - small stubborn tools" width="100%" />
+</p>
 
-<!--
-**davidfesteban/davidfesteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# David Festeban
 
-Here are some ideas to get you started:
+I build small, stubborn tools: local-first apps, AI coding workflows, automation, and backend systems that avoid unnecessary platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```txt
+david@local:~$ ./current-focus
+
+local AI workflows        LM Studio, Codex, Whisper, small models
+knowledge systems         Obsidian tools, notes, personal workflows
+github-native apps        no backend unless the problem earns one
+practical automation      servers, Docker, dev loops, boring reliability
+```
+
+## Active Work
+
+- [obsidian-kanban-cal](https://github.com/davidfesteban/obsidian-kanban-cal) - calendar-aware Kanban tooling for Obsidian
+- [agentrules](https://github.com/davidfesteban/agentrules) - rules and conventions for AI coding agents
+- [cv-maker](https://github.com/davidfesteban/cv-maker) - pragmatic CV generation and editing
+
+## Shelves
+
+- [GitArchive](https://github.com/GitArchive) - old projects, experiments, demos, useful leftovers
+- [GitRegistry](https://github.com/GitRegistry) - maintained and reusable assets
+- [GitRegret](https://github.com/GitRegret) - code archaeology, bad ideas, lessons learned
+
+## Stack
+
+Java, Python, JavaScript, TypeScript, Dart, Docker, Spring, Node, Svelte, Flutter, local LLM tooling.
+
+---
+
+> Preference: small systems, clear ownership, local-first defaults, and fewer platforms than the slide deck asked for.
