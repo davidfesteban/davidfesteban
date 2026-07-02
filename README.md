@@ -29,4 +29,4 @@
 
 `local LLM` · `IoT` · `ML` · `tmux archaeology`
 
-**Runtime dependencies:** coffee, cookies, chips, jamon serrano, gym, windsurf.
+**Runtime dependencies:** coffee, chips, jamón serrano, skiing, windsurf.
