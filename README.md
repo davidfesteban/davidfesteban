@@ -1,36 +1,29 @@
 <p align="center">
-  <img src="assets/profile.svg" alt="David Festeban - small stubborn tools" width="100%" />
+  <img src="assets/profile.svg" alt="David Fernández Esteban - small stubborn tools" width="100%" />
 </p>
 
-# David Festeban
+# David Fernández Esteban
 
 I build small, stubborn tools: local-first apps, AI coding workflows, automation, and backend systems that avoid unnecessary platforms.
 
-```txt
-david@local:~$ ./current-focus
+<p align="center">
+  <a href="https://github.com/GitArchive">
+    <img src="https://github.com/GitArchive.png?size=96" width="64" height="64" alt="GitArchive" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/GitRegistry">
+    <img src="https://github.com/GitRegistry.png?size=96" width="64" height="64" alt="GitRegistry" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/GitRegret">
+    <img src="https://github.com/GitRegret.png?size=96" width="64" height="64" alt="GitRegret" />
+  </a>
+</p>
 
-local AI workflows        LM Studio, Codex, Whisper, small models
-knowledge systems         Obsidian tools, notes, personal workflows
-github-native apps        no backend unless the problem earns one
-practical automation      servers, Docker, dev loops, boring reliability
-```
+<p align="center">
+  <a href="https://github.com/GitArchive"><b>GitArchive</b></a> · old projects and leftovers<br />
+  <a href="https://github.com/GitRegistry"><b>GitRegistry</b></a> · maintained reusable assets<br />
+  <a href="https://github.com/GitRegret"><b>GitRegret</b></a> · code archaeology and lessons learned
+</p>
 
-## Active Work
-
-- [obsidian-kanban-cal](https://github.com/davidfesteban/obsidian-kanban-cal) - calendar-aware Kanban tooling for Obsidian
-- [agentrules](https://github.com/davidfesteban/agentrules) - rules and conventions for AI coding agents
-- [cv-maker](https://github.com/davidfesteban/cv-maker) - pragmatic CV generation and editing
-
-## Shelves
-
-- [GitArchive](https://github.com/GitArchive) - old projects, experiments, demos, useful leftovers
-- [GitRegistry](https://github.com/GitRegistry) - maintained and reusable assets
-- [GitRegret](https://github.com/GitRegret) - code archaeology, bad ideas, lessons learned
-
-## Stack
-
-Java, Python, JavaScript, TypeScript, Dart, Docker, Spring, Node, Svelte, Flutter, local LLM tooling.
-
----
-
-> Preference: small systems, clear ownership, local-first defaults, and fewer platforms than the slide deck asked for.
+**Stack:** Java, Python, JavaScript, TypeScript, Dart, Docker, Spring, Node, Svelte, Flutter, local LLM tooling.
