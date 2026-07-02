@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="assets/profile.svg" alt="David Fernández Esteban - small stubborn tools" width="100%" />
+  <img src="assets/profile.svg" alt="Ask the guy reading this. I still do not know where I am." width="100%" />
 </p>
 
-# David Fernández Esteban
-
-I build small, stubborn tools: local-first apps, AI coding workflows, automation, and backend systems that avoid unnecessary platforms.
+> No plan survives first contact with `docker compose up`.
 
 | Organisation | Link | Goal |
 | --- | --- | --- |
@@ -12,4 +10,4 @@ I build small, stubborn tools: local-first apps, AI coding workflows, automation
 | <img src="https://github.com/GitRegistry.png?size=96" width="42" height="42" alt="GitRegistry" /> | [GitRegistry](https://github.com/GitRegistry) | Docker-composer private registry for infrastructure as code |
 | <img src="https://github.com/GitArchive.png?size=96" width="42" height="42" alt="GitArchive" /> | [GitArchive](https://github.com/GitArchive) | Those that did not make it to wall of shame |
 
-**Stack:** Java, Python, JavaScript, TypeScript, Dart, Docker, Spring, Node, Svelte, Flutter, local LLM tooling.
+**Stack:** Java, Python, JavaScript, Dart, Docker, Spring, Node, Svelte, Flutter, local LLM, IoT, ESP32, Terraform, PyTorch, ML, cookies, coffee, chips, jamon serrano, gym, windsurf, and whatever was left running in `tmux`.

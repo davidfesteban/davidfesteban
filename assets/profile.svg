@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">David Fernández Esteban profile banner</title>
-  <desc id="desc">Animated terminal-style profile banner for David Fernández Esteban.</desc>
+  <title id="title">Profile banner</title>
+  <desc id="desc">Animated terminal-style profile banner with a funny quote and project shelves.</desc>
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#111827"/>
@@ -86,14 +86,14 @@
     <circle cx="25" cy="20" r="6" fill="#ef4444"/>
     <circle cx="47" cy="20" r="6" fill="#f59e0b"/>
     <circle cx="69" cy="20" r="6" fill="#22c55e"/>
-    <text x="96" y="25" class="mono dim" font-size="15">~/davidfesteban</text>
+    <text x="96" y="25" class="mono dim" font-size="15">~/probably-not-production</text>
 
-    <text x="28" y="80" class="mono green" font-size="21">$ whoami</text>
-    <text x="28" y="119" class="sans text" font-size="39" font-weight="750">David Fernández Esteban</text>
-    <text x="28" y="154" class="mono dim" font-size="20">small, stubborn tools for local-first work</text>
+    <text x="28" y="80" class="mono green" font-size="21">$ pwd</text>
+    <text x="28" y="119" class="sans text" font-size="34" font-weight="750">Ask the guy reading this.</text>
+    <text x="28" y="154" class="mono dim" font-size="20">I still do not know where I am.</text>
     <g transform="translate(28 180)">
-      <text class="mono blue type-a" font-size="18">AI coding workflows without platform sprawl</text>
-      <text class="mono amber type-b" font-size="18">automation that survives real machines</text>
+      <text class="mono blue type-a" font-size="18">no plan survives first contact with compose</text>
+      <text class="mono amber type-b" font-size="18">ship it, regret it, archive it, repeat</text>
       <rect class="blink" x="425" y="-15" width="10" height="21" fill="#e5e7eb"/>
     </g>
   </g>
@@ -104,6 +104,6 @@
     <text x="0" y="76" class="mono blue" font-size="18">GitRegistry</text>
     <text x="0" y="108" class="mono amber" font-size="18">GitRegret</text>
     <rect x="0" y="136" width="190" height="2" fill="url(#line)"/>
-    <text x="0" y="174" class="mono dim" font-size="14">fewer platforms, better defaults</text>
+    <text x="0" y="174" class="mono dim" font-size="14">the registry remembers</text>
   </g>
 </svg>
