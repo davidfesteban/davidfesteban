@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile.svg" alt="Ask the guy reading this. I still do not know where I am." width="100%" />
+  <img src="assets/profile.svg" alt="Somewhere between compose up and why." width="100%" />
 </p>
 
 > No plan survives first contact with `docker compose up`.
